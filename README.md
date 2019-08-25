@@ -1,10 +1,6 @@
 # Pudhari-public
 Screenshots of the Pudhari news application that I developed as an intern.
 
-`Feed Customize`
-
-<img src=https://github.com/ShantanuBalse/Pudhari-public/blob/master/feed-customize.jpg width="270" height="480">
-
 `Breaking news`
 
 <img src=https://github.com/ShantanuBalse/Pudhari-public/blob/master/breaking-news.jpg width="270" height="480">
@@ -24,6 +20,10 @@ Screenshots of the Pudhari news application that I developed as an intern.
 `Videos`
 
 <img src=https://github.com/ShantanuBalse/Pudhari-public/blob/master/videos.jpg width="270" height="480">
+
+`Feed Customize`
+
+<img src=https://github.com/ShantanuBalse/Pudhari-public/blob/master/feed-customize.jpg width="270" height="480">
 
 `Settings`
 
