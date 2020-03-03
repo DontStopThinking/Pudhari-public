@@ -1,54 +1,54 @@
-# Pudhari-public
-Screenshots of the Pudhari news application that I developed as an intern at VedBiz Technologies. Since this was a commercial project, the source code is in a private repository. These are only the screenshots.
+# Pudhari Official
+Screenshots of the Pudhari news application that I developed as an intern at VedBiz Technologies. Since this was a commercial project, the source code is in a private repository. This repository contains only the screenshots.
 
-`Breaking news`
+#### Breaking news screen:
 
-<img src=https://github.com/ShantanuBalse/Pudhari-public/blob/master/breaking-news.jpg width="270" height="480">
+<img src=https://github.com/ShantanuBalse/Pudhari-public/blob/master/breaking-news.jpg width="270" height="400">
 
-`National news`
+#### National news screen:
 
 <img src=https://github.com/ShantanuBalse/Pudhari-public/blob/master/national.jpg width="270" height="480">
 
-`Options menu`
+#### Options menu:
 
 <img src=https://github.com/ShantanuBalse/Pudhari-public/blob/master/options.jpg width="270" height="480">
 
-`Regional`
+#### Regional screen:
 
 <img src=https://github.com/ShantanuBalse/Pudhari-public/blob/master/regional-mumbai.jpg width="270" height="480">
 
-`Videos`
+#### Videos screen:
 
 <img src=https://github.com/ShantanuBalse/Pudhari-public/blob/master/videos.jpg width="270" height="480">
 
-`Feed Customize`
+#### Feed Customize screen:
 
 <img src=https://github.com/ShantanuBalse/Pudhari-public/blob/master/feed-customize.jpg width="270" height="480">
 
-`Settings`
+#### Settings screen:
 
 <img src=https://github.com/ShantanuBalse/Pudhari-public/blob/master/settings.jpg width="270" height="480">
 
-`Feedback`
+#### Feedback screen:
 
 <img src=https://github.com/ShantanuBalse/Pudhari-public/blob/master/feedback.jpg width="270" height="480">
 
-`Navigation drawer`
+#### Navigation drawer:
 
 <img src=https://github.com/ShantanuBalse/Pudhari-public/blob/master/drawer.jpg width="270" height="480">
 
-`Article`
+#### Article screen:
 
 <img src=https://github.com/ShantanuBalse/Pudhari-public/blob/master/article.jpg width="270" height="480">
 
-`Article with dark theme`
+#### Dark theme:
 
 <img src=https://github.com/ShantanuBalse/Pudhari-public/blob/master/article-dark.jpg width="270" height="480">
 
-`Font enlarge`
+#### Font enlarge:
 
 <img src=https://github.com/ShantanuBalse/Pudhari-public/blob/master/font-enlarge.jpg width="270" height="480">
 
-`About`
+#### About:
 
 <img src=https://github.com/ShantanuBalse/Pudhari-public/blob/master/about-us.jpg width="270" height="480">
