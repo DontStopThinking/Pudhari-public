@@ -3,7 +3,7 @@ Screenshots of the Pudhari news application that I developed as an intern at Ved
 
 #### Breaking news screen:
 
-<img src=https://github.com/ShantanuBalse/Pudhari-public/blob/master/breaking-news.jpg width="270" height="400">
+<img src=https://github.com/ShantanuBalse/Pudhari-public/blob/master/breaking-news.jpg width="270" height="420">
 
 #### National news screen:
 
