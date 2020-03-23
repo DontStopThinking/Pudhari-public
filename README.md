@@ -1,5 +1,5 @@
 # Pudhari Official
-Screenshots of the Pudhari news application that I developed as an intern at VedBiz Technologies. Since this was a commercial project, the source code is in a private repository. This repository contains only the screenshots.
+These are some screenshots of the Pudhari Official news application that I developed as an intern at VedBiz Technologies. Since this was a commercial project, the source code is in a private repository. This repository contains only the screenshots.
 
 #### Breaking news screen:
 
